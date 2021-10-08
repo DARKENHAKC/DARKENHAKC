@@ -1,6 +1,6 @@
 {
     "name": "DARKEN HAKC",
-    "description": "⇜ اختراق حسابات عبر كود تريمكس ⌯",
+    "description": " اختراق حسابات عبر كود تريمكس",
     "logo": "https://telegra.ph/file/68f4e66623392df71534a.jpg",
     "keywords": [
         "TELETHON",
@@ -13,11 +13,12 @@
     "success_url": "",
     "env": {
         "BOT_TOKEN": {
-            "description": "⇜توكن بوتك احصل عليه منهنا: @BotFather ⌯",
+            "description": "⇜
+توكن بوتك احصل عليه منهنا: @BotFather",
             "value": ""
         },
         "API_HASH": {
-            "description": "⇜ايبي هاش احصل عليه منهنا: ⌯ my.telegram.org",
+            "description": "ايبي هاش احصل عليه منهنا:  my.telegram.org",
             "value": ""
         },
         "APP_ID": {
